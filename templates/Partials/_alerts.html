@@ -8,8 +8,8 @@
       <span aria-hidden="true">&times</span>
     </button>
     <strong>
-      {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %} Error: {% else %} {{
-      message.tags |title}} {% endif %}
+      {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %} Error: {% else %}
+      {{ message.tags|title}} {% endif %}
     </strong>
     {{ message }}
   </div>
