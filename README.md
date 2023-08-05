@@ -3,8 +3,9 @@ Built a Real Estate website using the Django framework &amp; Postgres.
 
 Utilize Bootstrap for the functional website with an admin area to manage resources like property listings, realtors, and contact inquiries. 
 
-<img width="1889" alt="1" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/2ed6ab02-24ba-4045-a1d0-524c4863fb00">
-<img width="1889" alt="2" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/f625e1b0-8f1d-4b28-876e-80b777a4583e">
+<img width="1895" alt="update1" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/b9c47071-5aa7-4689-9ae0-df237f813515">
+<img width="1895" alt="update2" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/fc3ee623-a804-4a1e-be92-9a38c59b419a">
+<img width="1895" alt="update3" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/68dac2fd-5677-4c1c-bd1b-e4f61899f520">
 <img width="1889" alt="3" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/2b2cfd4e-711b-4639-bf82-4f63a87ef3cf">
 <img width="1889" alt="4" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/b9c64bc6-a698-425e-b2de-def2a1981543">
 <img width="1889" alt="5" src="https://github.com/JahongLiu/Real-Estate-Django-Postgres/assets/121676539/d356a9e9-8cb8-4302-9917-51d17cae4771">
